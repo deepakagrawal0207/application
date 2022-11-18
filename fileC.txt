@@ -1,1 +1,2 @@
 This is File C for FeatureA.
+changes made for got hub.
